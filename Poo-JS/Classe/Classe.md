@@ -1,8 +1,12 @@
-Criando Classes em JavaScript
+# Criando Classes em JavaScript
+
+Em JavaScript, você pode criar classes usando a sintaxe de classe introduzida no ECMAScript 6 (ES6). Aqui está um exemplo simples de como criar uma classe em JavaScript:
+
+
 
 ![Alt text](image.png)
 
-**Aqui estão os principais componentes do código acima:**
+Aqui estão os principais componentes do código acima:**
 
 **class Pessoa { ... }:** Define a classe chamada Pessoa.
 
